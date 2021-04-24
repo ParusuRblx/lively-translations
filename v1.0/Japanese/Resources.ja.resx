@@ -141,7 +141,7 @@
 このアプリケーションが信頼できるソースから来ている場合のみ続行してください。</value>
   </data>
   <data name="DescriptionMinimizedTray" xml:space="preserve">
-    <value>活気がシステムトレイに最小化されているので、活気のアイコンを右クリックして続行します。</value>
+    <value>Livelyがシステムトレイに最小化されているので、Livelyのアイコンを右クリックして続行します。</value>
   </data>
   <data name="DescriptionPleaseRestartLively" xml:space="preserve">
     <value>設定を有効にするために、Livelyを再起動してください。</value>
@@ -198,12 +198,12 @@ https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="LivelyExceptionWorkerWSetupFail" xml:space="preserve">
     <value>Livelyを動作させるためには、いくつかの設定が必要なようです。 
-1. 1.このPC(マイコンピュータ)を開きます。
-2. 空の領域を右クリックします。
+1. このPC(マイコンピュータ)を開きます。
+2. なにも無い場所を右クリックします。
 3. プロパティを選択します。
 4. システムの詳細設定を選択します。
 5. パフォーマンス」タブで「設定」を選択します。
-6. 6. ウィンドウ内のコントロールと要素のアニメーションを有効にし、適用します。
+6. ウィンドウ内のコントロールと要素のアニメーションを有効にし、適用します。
 
 Windows 7の場合は、単に設定 - 最適な外観に調整 &amp;amp; 適用します。
 それでも動作しない場合は、閉じて、もう一度Livelyを起動するか、Windowsを再起動してください。
@@ -387,10 +387,10 @@ Windows 7の場合は、単に設定 - 最適な外観に調整 &amp;amp; 適用
     <value>アップデートの確認します。</value>
   </data>
   <data name="TextupdateCheckFail" xml:space="preserve">
-    <value>アップデートの確認失敗しました。</value>
+    <value>アップデートの確認が失敗しました。</value>
   </data>
   <data name="TextUpdateChecking" xml:space="preserve">
-    <value>アップデートの確認中。。。</value>
+    <value>アップデートの確認中...</value>
   </data>
   <data name="TextUpdateUptodate" xml:space="preserve">
     <value>最新のものを使用しています。</value>
@@ -411,7 +411,7 @@ Windows 7の場合は、単に設定 - 最適な外観に調整 &amp;amp; 適用
     <value>ユニフォームフィル</value>
   </data>
   <data name="TextWallpaperLayoutDuplicate" xml:space="preserve">
-    <value>同じ壁紙を複製する</value>
+    <value>壁紙を複製する</value>
   </data>
   <data name="TextWallpaperLayoutPerScreen" xml:space="preserve">
     <value>選択した画面のみ</value>
@@ -473,26 +473,26 @@ Windows 7の場合は、単に設定 - 最適な外観に調整 &amp;amp; 適用
     <value>システムトレイのアイコンを表示すると、Livelyはアイコンが隠された状態で実行され続けます。</value>
   </data>
   <data name="TipLanguage" xml:space="preserve">
-    <value>賑やかに新しい言語を適用するために再始動します。</value>
+    <value>言語を適用するためには再始動してください。</value>
   </data>
   <data name="TipLivelySetupOnClose" xml:space="preserve">
     <value>設定を終了して続行します。</value>
   </data>
   <data name="TipPauseAlgorithm" xml:space="preserve">
-    <value>フォアグラウンドプロセス：軽量で、壁紙の再生動作を決定するためにフォアグラウンドにある単一のプロセスのみをチェックします。
-すべてのプロセス：重く、すべてのプロセスをスキャンして再生動作を判断します。</value>
+    <value>フォアグラウンドプロセス：軽量、壁紙の再生動作を決定するためにフォアグラウンドにある単一のプロセスのみをチェックします。
+すべてのプロセス：高負荷、すべてのプロセスをスキャンして再生動作を判断します。</value>
   </data>
   <data name="TipStreamWallpaperDetect" xml:space="preserve">
     <value>サポートされているビデオストリームリンクが検出された場合は、ウェブページを読み込む代わりにビデオプレーヤーを使用してください。</value>
   </data>
   <data name="TipStreamWallpaperVideoQuality" xml:space="preserve">
-    <value>オンラインストリームにビデオ品質を選択します。</value>
+    <value>オンラインストリームのビデオ品質を選択します。</value>
   </data>
   <data name="TipTileSize" xml:space="preserve">
     <value>ライブラリーの壁紙タイルのサイズ。</value>
   </data>
   <data name="TipUIMode" xml:space="preserve">
-    <value>ローエンドシステムの場合は、Lite モードを選択します。</value>
+    <value>ロースペックシステムの場合は、Lite モードを選択してください。</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
     <value>動画の壁紙に使用するプレーヤーを選択します。</value>
@@ -682,7 +682,7 @@ Edgeはwindows 10に組み込まれているWebビューです。</value>
     <value>ウェブページの読み込み</value>
   </data>
   <data name="TitleWindowsStartup" xml:space="preserve">
-    <value>ウィンドウズ起動時に同時に起動します。</value>
+    <value>Windows起動時に同時に起動します。</value>
   </data>
   <data name="TextPreviewWallpaper" xml:space="preserve">
     <value>Preview Wallpaper</value>
